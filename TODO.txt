@@ -1,0 +1,11 @@
+Research:
+
+White Rabbit/Own version
+Build on existing code base
+Research the positron camera
+
+
+Code:
+
+Test:
+Nano Second precision timing
